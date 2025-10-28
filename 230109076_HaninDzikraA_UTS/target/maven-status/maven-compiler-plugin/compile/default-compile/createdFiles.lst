@@ -1,0 +1,11 @@
+com\praktikum\whitebox\exception\CourseNotFoundException.class
+com\praktikum\whitebox\model\CourseGrade.class
+com\praktikum\whitebox\repository\CourseRepository.class
+com\praktikum\whitebox\model\Course.class
+com\praktikum\whitebox\model\Student.class
+com\praktikum\whitebox\exception\CourseFullException.class
+com\praktikum\whitebox\model\Enrollment.class
+com\praktikum\whitebox\Main.class
+com\praktikum\whitebox\exception\PrerequisiteNotMetException.class
+com\praktikum\whitebox\exception\EnrollmentException.class
+com\praktikum\whitebox\exception\StudentNotFoundException.class
